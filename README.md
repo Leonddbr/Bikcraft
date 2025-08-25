@@ -2,8 +2,6 @@
 
 🔗 [Live Version](https://bikcraft-xi-seven.vercel.app)  
 
-[![Bikcraft Screenshot](https://raw.githubusercontent.com/Leonddbr/ProjBikcraft/main/screenshot.png)](https://bikcraft-xi-seven.vercel.app)  
-
 Bicycle store website, built to showcase different bike models and provide a smooth browsing experience for customers.  
 
 ---
